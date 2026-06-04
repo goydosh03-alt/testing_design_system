@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" font-family="Inter, -apple-system, sans-serif">
+  <rect width="900" height="520" fill="#0E1014" rx="12"/>
+
+  <text x="40" y="44" font-size="20" font-weight="700" fill="#FFFFFF">FirstSpin — UI-KIT Components</text>
+
+  <!-- Component cards: row 1 -->
+  <!-- Colors -->
+  <rect x="40" y="68" width="120" height="80" rx="8" fill="#13151B" stroke="#1B1D22" stroke-width="1"/>
+  <rect x="56" y="84" width="14" height="14" rx="3" fill="#5900F5"/>
+  <rect x="76" y="84" width="14" height="14" rx="3" fill="#782DFB"/>
+  <rect x="96" y="84" width="14" height="14" rx="3" fill="#767E95"/>
+  <rect x="116" y="84" width="14" height="14" rx="3" fill="#FFFFFF"/>
+  <text x="56" y="122" font-size="12" font-weight="600" fill="#FFFFFF">Colors</text>
+  <text x="56" y="136" font-size="10" fill="#767E95">17 tokens</text>
+
+  <!-- Icons -->
+  <rect x="172" y="68" width="120" height="80" rx="8" fill="#13151B" stroke="#1B1D22" stroke-width="1"/>
+  <text x="188" y="115" font-size="28" fill="#5900F5">⬡</text>
+  <text x="188" y="122" font-size="12" font-weight="600" fill="#FFFFFF">Icons</text>
+  <text x="188" y="136" font-size="10" fill="#767E95">Icon library</text>
+
+  <!-- Cards -->
+  <rect x="304" y="68" width="120" height="80" rx="8" fill="#13151B" stroke="#1B1D22" stroke-width="1"/>
+  <rect x="320" y="80" width="88" height="44" rx="6" fill="#0E1014" stroke="#1B1D22" stroke-width="1"/>
+  <rect x="328" y="86" width="32" height="20" rx="4" fill="#1B1D22"/>
+  <rect x="366" y="86" width="34" height="8" rx="2" fill="#1B1D22"/>
+  <rect x="366" y="98" width="22" height="6" rx="2" fill="#13151B"/>
+  <text x="320" y="140" font-size="12" font-weight="600" fill="#FFFFFF">Cards</text>
+
+  <!-- Header + Nav -->
+  <rect x="436" y="68" width="120" height="80" rx="8" fill="#13151B" stroke="#1B1D22" stroke-width="1"/>
+  <rect x="452" y="80" width="88" height="16" rx="4" fill="#0E1014" stroke="#1B1D22" stroke-width="1"/>
+  <rect x="456" y="84" width="12" height="8" rx="2" fill="#5900F5"/>
+  <rect x="474" y="86" width="24" height="4" rx="1" fill="#1B1D22"/>
+  <rect x="520" y="86" width="12" height="4" rx="1" fill="#1B1D22"/>
+  <text x="452" y="122" font-size="12" font-weight="600" fill="#FFFFFF">Header + Nav</text>
+  <text x="452" y="136" font-size="10" fill="#767E95">Navigation bar</text>
+
+  <!-- Buttons -->
+  <rect x="568" y="68" width="120" height="80" rx="8" fill="#13151B" stroke="#1B1D22" stroke-width="1"/>
+  <rect x="584" y="84" width="88" height="24" rx="6" fill="#5900F5"/>
+  <text x="628" y="101" font-size="10" fill="#FFFFFF" text-anchor="middle">Primary</text>
+  <rect x="584" y="114" width="88" height="24" rx="6" fill="none" stroke="#5900F5" stroke-width="1.5"/>
+  <text x="628" y="131" font-size="10" fill="#5900F5" text-anchor="middle">Secondary</text>
+  <text x="584" y="157" font-size="12" font-weight="600" fill="#FFFFFF">Buttons</text>
+
+  <!-- Field + Label -->
+  <rect x="700" y="68" width="120" height="80" rx="8" fill="#13151B" stroke="#1B1D22" stroke-width="1"/>
+  <text x="716" y="86" font-size="8" fill="#537088">Label</text>
+  <rect x="716" y="90" width="88" height="22" rx="4" fill="#15171E" stroke="#1B1D22" stroke-width="1"/>
+  <text x="722" y="105" font-size="9" fill="#537088">Placeholder...</text>
+  <text x="716" y="132" font-size="12" font-weight="600" fill="#FFFFFF">Field + Label</text>
+  <text x="716" y="146" font-size="10" fill="#767E95">Input fields</text>
+
+  <!-- Row 2 -->
+  <!-- Search -->
+  <rect x="40" y="176" width="120" height="80" rx="8" fill="#13151B" stroke="#1B1D22" stroke-width="1"/>
+  <rect x="56" y="188" width="88" height="22" rx="11" fill="#15171E" stroke="#1B1D22" stroke-width="1"/>
+  <text x="72" y="203" font-size="9" fill="#537088">🔍 Search...</text>
+  <text x="56" y="236" font-size="12" font-weight="600" fill="#FFFFFF">Search</text>
+
+  <!-- Checkbox -->
+  <rect x="172" y="176" width="120" height="80" rx="8" fill="#13151B" stroke="#1B1D22" stroke-width="1"/>
+  <rect x="188" y="188" width="16" height="16" rx="3" fill="#5900F5"/>
+  <text x="194" y="200" font-size="10" fill="#FFFFFF">✓</text>
+  <rect x="210" y="192" width="44" height="8" rx="2" fill="#1B1D22"/>
+  <rect x="188" y="212" width="16" height="16" rx="3" fill="none" stroke="#537088" stroke-width="1.5"/>
+  <rect x="210" y="216" width="36" height="8" rx="2" fill="#1B1D22"/>
+  <text x="188" y="252" font-size="12" font-weight="600" fill="#FFFFFF">Checkbox</text>
+
+  <!-- Radio -->
+  <rect x="304" y="176" width="120" height="80" rx="8" fill="#13151B" stroke="#1B1D22" stroke-width="1"/>
+  <circle cx="320" cy="196" r="8" fill="#5900F5"/>
+  <circle cx="320" cy="196" r="4" fill="#FFFFFF"/>
+  <rect x="334" y="192" width="44" height="8" rx="2" fill="#1B1D22"/>
+  <circle cx="320" cy="216" r="8" fill="none" stroke="#537088" stroke-width="1.5"/>
+  <rect x="334" y="212" width="36" height="8" rx="2" fill="#1B1D22"/>
+  <text x="312" y="252" font-size="12" font-weight="600" fill="#FFFFFF">Radio</text>
+
+  <!-- Switcher -->
+  <rect x="436" y="176" width="120" height="80" rx="8" fill="#13151B" stroke="#1B1D22" stroke-width="1"/>
+  <rect x="452" y="192" width="40" height="22" rx="11" fill="#5900F5"/>
+  <circle cx="481" cy="203" r="8" fill="#FFFFFF"/>
+  <rect x="500" y="196" width="44" height="8" rx="2" fill="#1B1D22"/>
+  <rect x="452" y="220" width="40" height="22" rx="11" fill="#1B1D22"/>
+  <circle cx="463" cy="231" r="8" fill="#537088"/>
+  <text x="452" y="260" font-size="12" font-weight="600" fill="#FFFFFF">Switcher</text>
+
+  <!-- Tooltip -->
+  <rect x="568" y="176" width="120" height="80" rx="8" fill="#13151B" stroke="#1B1D22" stroke-width="1"/>
+  <rect x="584" y="186" width="88" height="28" rx="6" fill="#767E95"/>
+  <text x="628" y="205" font-size="9" fill="#000000" text-anchor="middle">Tooltip text here</text>
+  <polygon points="620,214 628,224 636,214" fill="#767E95"/>
+  <text x="584" y="252" font-size="12" font-weight="600" fill="#FFFFFF">Tooltip</text>
+
+  <!-- Status + Snackbars -->
+  <rect x="700" y="176" width="120" height="80" rx="8" fill="#13151B" stroke="#1B1D22" stroke-width="1"/>
+  <rect x="716" y="188" width="30" height="12" rx="6" fill="#5900F5"/>
+  <text x="731" y="198" font-size="7" fill="#FFFFFF" text-anchor="middle">Active</text>
+  <rect x="752" y="188" width="30" height="12" rx="6" fill="#1B1D22" stroke="#537088"/>
+  <text x="767" y="198" font-size="7" fill="#767E95" text-anchor="middle">Draft</text>
+  <rect x="716" y="208" width="84" height="24" rx="6" fill="#0E1014" stroke="#1B1D22"/>
+  <rect x="724" y="214" width="8" height="8" rx="2" fill="#5900F5"/>
+  <rect x="738" y="216" width="44" height="4" rx="1" fill="#1B1D22"/>
+  <text x="716" y="252" font-size="12" font-weight="600" fill="#FFFFFF">Status + Snackbars</text>
+
+  <!-- Row 3 -->
+  <!-- Tab -->
+  <rect x="40" y="284" width="120" height="80" rx="8" fill="#13151B" stroke="#1B1D22" stroke-width="1"/>
+  <rect x="56" y="296" width="88" height="28" rx="4" fill="#0E1014"/>
+  <rect x="58" y="298" width="36" height="24" rx="3" fill="#5900F5"/>
+  <text x="76" y="314" font-size="9" fill="#FFFFFF" text-anchor="middle">Tab 1</text>
+  <text x="112" y="314" font-size="9" fill="#767E95" text-anchor="middle">Tab 2</text>
+  <text x="56" y="360" font-size="12" font-weight="600" fill="#FFFFFF">Tab</text>
+
+  <!-- Illustration -->
+  <rect x="172" y="284" width="120" height="80" rx="8" fill="#13151B" stroke="#1B1D22" stroke-width="1"/>
+  <circle cx="232" cy="314" r="22" fill="#0E1014" stroke="#1B1D22"/>
+  <circle cx="232" cy="314" r="10" fill="#5900F5" opacity="0.4"/>
+  <circle cx="232" cy="314" r="5" fill="#5900F5"/>
+  <text x="188" y="360" font-size="12" font-weight="600" fill="#FFFFFF">Illustration</text>
+
+  <!-- Footer -->
+  <text x="40" y="490" font-size="11" fill="#537088">Figma source: figma.com/design/upP41sjeBtqoOLdFAHZMrD/FirstSpin</text>
+  <text x="40" y="508" font-size="11" fill="#537088">Generated: 2026-06-04</text>
+</svg>
